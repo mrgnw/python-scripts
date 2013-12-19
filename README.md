@@ -11,5 +11,8 @@ Huffman encoding assigns a binary value to each character, with the shortest bin
 Calculates the sum of all even numbers that are in the fibonacci sequence under a certain number.
 
 
+### flood
+A recursive flood-fill algorithm. Uses floodmap.txt and (floopmap1.txt)[floodmap1.txt?=raw)
+
 ### PriorityQueue
 A simple priority queue, which is usedi n the huffman encoder.
